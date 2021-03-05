@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0;
+  padding: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+button {
+  background-color: hotpink;
+}
+
+#modal {
+  background-color: lightblue;
+  padding: 55px;
+}
