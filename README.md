@@ -1,2 +1,2 @@
 # js-snippets-frontend
-personal snippets of JS from previous projects for reference 
+personal snippets of JS from previous projects for reference and practice.
